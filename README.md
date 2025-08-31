@@ -3,6 +3,9 @@
 An object-oriented implementation of **Conway’s Game of Life** in **VBA for Microsoft Excel**.  
 The project demonstrates modular design in VBA, separating simulation logic, rendering, and configuration into dedicated classes and interfaces.
 
+## Demo Video
+Watch the simulation in action on [YouTube](https://youtu.be/4DAZ3WulKko?feature=shared).
+
 ---
 
 ## Features
